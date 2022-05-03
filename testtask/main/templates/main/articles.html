@@ -1,0 +1,16 @@
+{% extends 'main/base.html' %}
+
+{% block title %}
+    {{ title }}
+{% endblock %}
+
+{% block content%}
+    <div class="container mt-3">
+        <h1>{{ title }}</h1>
+        {%  now "d.m.Y H:i:s" %} Количество статей: {{ is_published.count }}
+        <div class="row">
+            {% include 'inc/_sidebar.html' %}
+            {% include 'inc/_articles.html' %}
+        </div>
+    </div>
+{% endblock %}
