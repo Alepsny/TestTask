@@ -12,6 +12,6 @@
 </ul>
 
 <h3>Скриншоты веб-сервиса:</h3>
-<img src="https://i.ibb.co/fMXpYwX/Testsite1.jpg" alt="Testsite1">
-<img src="https://i.ibb.co/5rXcdv0/Testsite2.jpg" alt="Testsite2">
-<img src="https://i.ibb.co/V3pg0pv/Testsite3.jpg" alt="Testsite3">
+<img src="https://i.ibb.co/GJZcCZF/Testsite1.jpg" alt="Testsite1">
+<img src="https://i.ibb.co/9rrBWyD/Testsite2.jpg" alt="Testsite2">
+<img src="https://i.ibb.co/jbvfS8h/Testsite3.jpg" alt="Testsite3">
